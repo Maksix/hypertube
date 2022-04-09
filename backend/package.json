@@ -19,7 +19,7 @@
     "escape-html": "^1.0.3",
     "express": "^4.17.1",
     "express-session": "^1.17.0",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.31",
     "node-cron": "^2.0.3",
     "nodemailer": "^6.4.1",
